@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surajkm24&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkm24&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![](https://activity-graph.herokuapp.com/graph?username=surajkm24&theme=react-dark)](https://github.com/surajkm24/github-readme-activity-graph)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=surajkm24&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
