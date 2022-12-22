@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## <p align='center'>💫 About Me:</p>
-<p align='center'>I'm a computer enthusiast who enjoys creating things that live on the web. I love to explore and learn emerging web technologies. I'm a skilled MERN Stack Developer. I have created some cool projects which are on GitHub. Do check them out. Apart from coding, I love watching movies and listening to music. I am up for collaborative works, so don't hesitate to contact me. </p>
+### <p align='center'>I'm a computer enthusiast who enjoys creating things that live on the web. I love to explore and learn emerging web technologies. I'm a skilled MERN Stack Developer. I have created some cool projects which are on GitHub. Do check them out. Apart from coding, I like watching movies and listening to music. I am up for collaborative works, so don't hesitate to contact me. </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&height=100px)](https://linkedin.com/in/surajkm24) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://surajkm24.github.io)
@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=surajkm24&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surajkm24&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkm24&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![](https://activity-graph.herokuapp.com/graph?username=surajkm24&theme=react-dark)](https://github.com/surajkm24/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=surajkm24&theme=radical&no-frame=false&no-bg=false&margin-w=4)
